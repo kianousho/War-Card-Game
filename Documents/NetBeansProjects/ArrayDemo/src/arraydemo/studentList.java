@@ -6,7 +6,8 @@ package arraydemo;
 
 public class studentList {
     public static void main(String[] args){
-            //comment added at 1:29 PM 
+        //comment added at 1:29 PM 
+        // friday 
         Student s1 = new Student("s1","ronak");
         Student[] studentList = new Student[3]; 
         
