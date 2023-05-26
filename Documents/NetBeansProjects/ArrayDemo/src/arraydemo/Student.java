@@ -6,12 +6,19 @@ package arraydemo;
 
 public class Student {
     //comment added at 1:21 PM 
+    //comment added at 21:23 PM 
+    //comment added at 12:32 PM 
     private String sId; 
     private String sName; 
+    private String address;
 
     public Student(String sId, String sName) {
         this.sId = sId;
         this.sName = sName;
+    }
+
+    public String getAddress() {
+        return address;
     }
 
     public String getsId() {
