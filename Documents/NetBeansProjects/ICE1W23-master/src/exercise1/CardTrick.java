@@ -7,7 +7,7 @@ import java.util.Scanner;
  * To be used as starting code in Exercise
  *
  * @author Dohee Kim
- * @Date May 27, 2023
+ * @Date 27, May, 2023
  */
 public class CardTrick {
     
